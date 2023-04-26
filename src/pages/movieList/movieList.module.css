@@ -1,0 +1,67 @@
+/* * {} */
+
+.bannerInfo {
+    width: 28%;
+    /* background: #c1c1c1; */
+    position: absolute;
+    bottom: 380px;
+    left: 98px;
+}
+
+.bannerDescriptionWrap {
+    width: 90%;
+}
+
+.bannerDescription {
+    color: #fff;
+    margin-block: 16px;
+}
+
+.bannerHeaderWrap {
+    margin-block-end: 16px;
+}
+
+.bannerHeader {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+}
+
+.featuredMovieHeading {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.buttonWrap {
+    width: 70%;
+}
+
+.bannerButton {
+    border-style: none;
+    background-color: #BE123C;
+    border-radius: 6px;
+    color: #fff;
+    padding-block: 6px;
+    width: 100%;
+}
+
+.movieListContainer {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 98px;
+}
+
+.featuredContainer {
+    display: flex;
+    padding-inline: 98px;
+}
+
+.featuredContainer a {
+    align-items: center;
+}
